@@ -2,7 +2,7 @@
   "name": "webpack-treehouse-example",
   "version": "0.0.1",
   "scripts": {
-    "build": "webpack --optimize-minimize"
+    
   },
   "devDependencies": {
     "babel-loader": "^6.2.4",
